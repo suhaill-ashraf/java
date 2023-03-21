@@ -11,7 +11,7 @@ public class Main {
        roll= sc.nextInt();
        System.out.println("\n enter your Name :");
        name= sc.next();
-       bean bean=new bean();
+       Bean bean=new Bean();
        bean.setId(id);
        bean.setRoll(roll);
        bean.setName(name);
