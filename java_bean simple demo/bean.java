@@ -1,4 +1,4 @@
-public class bean implements java.io.Serializable {
+public class Bean implements java.io.Serializable {
     private int id;
     private int roll;
     private String name;
